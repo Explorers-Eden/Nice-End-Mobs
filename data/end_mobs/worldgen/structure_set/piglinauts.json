@@ -1,0 +1,13 @@
+{
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 48,
+        "separation": 16,
+        "salt": 19011220,
+        "spread_type": "triangular"
+    },
+    "structures": [{
+        "structure": "end_mobs:piglinauts",
+        "weight": 1
+    }]
+}
