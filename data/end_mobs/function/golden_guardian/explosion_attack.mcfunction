@@ -4,4 +4,4 @@ execute unless block ~ ~ ~ air run summon tnt ~ ~2 ~ {fuse:100,block_state:{Name
 
 execute unless block ~ ~ ~ air run return fail
 execute unless entity @s[distance=..48] run return fail
-execute positioned ^ ^ ^.1 run function nmr:celestial_watcher/entity/explosion_attack
+execute positioned ^ ^ ^.1 run function end_mobs:golden_guardian/explosion_attack

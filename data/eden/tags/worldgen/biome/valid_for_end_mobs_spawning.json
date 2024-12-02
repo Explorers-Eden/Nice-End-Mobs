@@ -5,7 +5,6 @@
         { "id": "minecraft:end_barrens","required": false},
         { "id": "nullscape:crystal_peaks","required": false},
         { "id": "nullscape:shadowlands","required": false},
-        { "id": "nullscape:void_barrens","required": false},
-        { "id": "minecraft:the_end","required": false}
+        { "id": "nullscape:void_barrens","required": false}
     ]
 }

@@ -11,14 +11,14 @@
             }
           ],
           "entity": {
-            "type": "minecraft:wither_skeleton",
-            "nbt": "{Tags:[\"eden.ender_skeleton\"]}"
+            "type": "minecraft:vex",
+            "nbt": "{Tags:[\"eden.golden_guardian\"]}"
           }
         }
       }
     },
     "rewards": {
-      "function": "end_mobs:ender_skeleton/ability"
+      "function": "end_mobs:golden_guardian/player_hit_golden_guardian"
     }
   }
   

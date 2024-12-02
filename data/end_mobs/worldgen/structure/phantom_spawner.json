@@ -1,6 +1,6 @@
 {
   "type": "minecraft:jigsaw",
-  "biomes": "#eden:all_end_biomes",
+  "biomes": "#eden:valid_for_end_mobs_spawning",
   "step": "surface_structures",
   "spawn_overrides": {
     "monster": {
